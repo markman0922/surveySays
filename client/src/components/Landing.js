@@ -7,7 +7,7 @@ const Landing = () => {
         Survey Says: Landing Page!
       </h1>
       <h5>
-        Feedback for businesses. Surveys for scientific research.
+        Surveys for scientific research. Feedback for businesses.
       </h5>
     </div>
   );
