@@ -4,7 +4,7 @@ const Landing = () => {
   return(
     <div style={{ textAlign: 'center' }}>
       <h1>
-        Survey Says: Landing Page!
+        Survey Says: Welcome!
       </h1>
       <h5>
         Surveys for scientific research. Feedback for businesses.
